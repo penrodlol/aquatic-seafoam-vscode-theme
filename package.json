@@ -1,0 +1,22 @@
+{
+    "name": "pastel-seaform",
+    "publisher": "penrodlol",
+    "displayName": "Pastel Seaform",
+    "description": "Do you enjoy aquatic and pastel color themes but cant decide which one to use? Well, this theme combines the best of both!",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pastel Seafoam",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pastel Seafoam-color-theme.json"
+            }
+        ]
+    }
+}
